@@ -1,0 +1,12 @@
+
+[
+ {
+ "Name":"Bowl",
+ "price":100
+ },
+
+  {
+    "Name":"plate",
+    "price":100
+  }
+]

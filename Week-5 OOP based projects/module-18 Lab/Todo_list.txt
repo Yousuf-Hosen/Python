@@ -1,0 +1,6 @@
+                 To do list
+1.attribute validataion using assert
+2.Dynamic attributes
+3.create classes from json in files
+4.multiple inheritance and MRO(method resolution oder)
+5.Duck typing 
